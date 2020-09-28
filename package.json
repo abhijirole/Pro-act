@@ -1,6 +1,7 @@
 {
-	"name": "demo",
-	"displayName": "demo",
+	"name": "pro-act",
+	"publisher": "skyjeet",
+	"displayName": "Pro-act",
 	"description": "for demo purpose",
 	"version": "0.0.1",
 	"engines": {
