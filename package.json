@@ -2,8 +2,8 @@
 	"name": "pro-act",
 	"publisher": "skyjeet",
 	"displayName": "Pro-act",
-	"description": "for demo purpose",
-	"version": "0.0.1",
+	"description": "Handling the common important project files by effective way of notification",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
