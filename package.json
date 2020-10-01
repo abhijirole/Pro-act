@@ -11,14 +11,15 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:demo.helloWorld"
+		"onCommand:demo.helloWorld",
+		"*"
 	],
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [
 			{
 				"command": "demo.helloWorld",
-				"title": "abhi abhi"
+				"title": "Pro-act: Start"
 			}
 		]
 	},
